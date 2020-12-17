@@ -38,3 +38,8 @@ body {
 .navbar-dark {
     background-color: #512DAB;
 }
+
+.form-check {
+    padding: 10px;
+    margin: 10px;
+}
